@@ -1,6 +1,6 @@
 ### Hi there, I'm Umar 👋
 
-[![Dribble Follow](https://img.shields.io/twitter/follow/itzumar_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fumaryusuf11&screen_name=itzumar_y)
+[![](https://img.shields.io/twitter/follow/itzumar_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fumaryusuf11&screen_name=itzumar_y)
 
 [![Twitter Follow](https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png)](https://dribbble.com/umaryusuf11)
 
