@@ -1,7 +1,5 @@
 ### Hi there, I'm Umar 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/itzumar_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fumaryusuf11&screen_name=itzumar_y)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandaaraujo)](https://github.com/umaryusuf11)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandaaraujof/)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.arf@gmail.com)](mailto:umaryusuf11@gmail.com)
