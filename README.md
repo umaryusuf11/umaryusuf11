@@ -57,5 +57,5 @@
 [website]: https://instagram.com/bklydesgn
 [twitter]: https://twitter.com/itzumar_y
 [instagram]: https://instagram.com/itzumar_y
-[linkedin]: linkedin.com/in/umar-yusuf-4435b91bb
+[linkedin]: https://linkedin.com/in/umar-yusuf-4435b91bb
 [dribble]: https://dribbble.com/umaryusuf11
