@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I loveplaying games with friends
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love playing games with friends
 
 ### Spotify Playing 🎧
 
