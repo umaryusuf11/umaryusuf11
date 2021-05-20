@@ -8,7 +8,7 @@
 
 
 
-## I'm a Student, Designer, Developer, and Entrapenuer!!
+## I'm a Student, Designer, and Developer!!
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with others
