@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games with friends
 
 ### Spotify Playing 🎧
