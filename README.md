@@ -15,11 +15,9 @@
 - 🥅 2022 Goals: Gain some experience in an office environment
 - ⚡ Fun fact: I love playing games with friends
 
-### Spotify Playing 🎧
+### 📊 Statistics
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Umar's Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaryusuf11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaryusuf11&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://meetumar.dev
 [twitter]: https://twitter.com/itzumar_y
