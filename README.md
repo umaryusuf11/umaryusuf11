@@ -20,9 +20,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Umar's Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=umaryusuf11&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaryusuf11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
