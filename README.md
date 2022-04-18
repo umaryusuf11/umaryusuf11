@@ -15,6 +15,8 @@
 - 🥅 2022 Goals: Gain some experience in an office environment
 - ⚡ Fun fact: I love playing games with friends
 
+<br />
+
 ### 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaryusuf11&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
