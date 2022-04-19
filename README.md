@@ -19,6 +19,8 @@
 [linkedin]: https://linkedin.com/in/umar-yusuf
 [dribble]: https://dribbble.com/umaryusuf11
 
+<br />
+
 ### 🤙 Don't be shy, say hi!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandaaraujo)](https://github.com/umaryusuf11)
