@@ -11,7 +11,7 @@
 
 ### 📊 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaryusuf11&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-user-languages.herokuapp.com/?user=umaryusuf11)](https://github.com/umaryusuf11/github-readme-user-languages)
 
 [website]: https://meetumar.dev
 [twitter]: https://twitter.com/itzumar_y
