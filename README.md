@@ -9,10 +9,6 @@
 
 <br />
 
-### 📊 Statistics
-
-[![Langs](https://github-readme-user-languages.herokuapp.com/?user=umaryusuf11&v=2)](https://github.com/umaryusuf11/github-readme-user-languages)
-
 [website]: https://meetumar.dev
 [twitter]: https://twitter.com/itzumar_y
 [instagram]: https://instagram.com/_umarysf
