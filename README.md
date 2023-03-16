@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Gain some experience in an office environment
+- 🥅 2023 Goals: Gain some experience in an office environment
 - ⚡ Fun fact: I love playing games with friends
 
 <br />
