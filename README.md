@@ -3,7 +3,7 @@
 ### I'm a Student, Designer, and Developer!!
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate with others
+- 👯 I’m looking to build more apps
 - 🥅 2023 Goals: Gain some experience in an office environment
 - ⚡ Fun fact: I love playing games with friends
 
